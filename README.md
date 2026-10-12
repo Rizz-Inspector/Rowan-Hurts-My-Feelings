@@ -37,7 +37,7 @@ press 2 to switch gun type to plasma
 [Goal of the game]
 
 Defeat the big gunship that hunts you for eternity unless you destroy it, do not underestimate the gunship because it can spawn
-enemies like drones and small combat spacecrafts (etc. bomber). The big gunship has 3 phase, the first phase is a shield and it can be disabled
+enemies like drones and small combat spacecrafts (etc. bomber). The big gunship has 3 phases, the first phase is a shield and it can be disabled
 by shooting it until the shield breaks. Once shield is broken, the gunship will enter the second phase where it spawns more spacecrafts. This time
 the gunship's cannons are exposed and destroy all of them at once to enter third phase. When you enter third phase, the gunship will have a remaining
 large health bar where you have to engage extreme crossfire fights with more incoming spacecrafts and destroy the gunship by shooting it until it
