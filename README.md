@@ -4,7 +4,7 @@
 
 
 
-<<VOLUME WARNING: Never max volume your device unless you hate your eardrums>>
+{ WARNING: Never max volume your device unless you hate your eardrums }
 
 [INSTRUCTIONS]
 
