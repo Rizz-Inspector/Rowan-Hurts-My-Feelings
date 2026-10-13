@@ -2,7 +2,7 @@
 
 [please read all the instructions]: btw press [enter] to start or proceed the game whenever you are in the menu screen
 
-
+https://rizz-inspector.github.io/Rowan-Hurts-My-Feelings/
 
 { WARNING: Never max volume your device unless you hate your eardrums }
 
